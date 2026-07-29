@@ -1,4 +1,4 @@
-.main-heading {
+#main-heading {
     background-color: #4d1f00eb;
     padding: 30px;
     text-align: center;
@@ -13,6 +13,16 @@
     
 }
 
-.pizza:hover{
-   color: teal
+.pizza:hover {
+    color:#c91c1c;
+}
+.pizza {
+    background-color: beige;
+}
+.sushi:hover {
+    color:#ff6b6b;
+}
+
+.döner:hover {
+    color:#5c3a21;
 }
