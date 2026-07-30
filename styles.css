@@ -1,4 +1,6 @@
-body {
+/* all bellow is main-page */
+
+.main-page {
     background-color: #faf7f2;
 }
 #main-heading {
@@ -28,4 +30,43 @@ a:visited {
 
 .döner:hover {
     color:#5c3a21;
+}
+
+/* all bellow is pizza-page */
+
+.pizza-image {
+    border-radius: 30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.pizza-heading {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #4d1f00eb;
+    font-size: 55px;
+    width: auto;
+    text-align: center;
+}
+
+.home-anchor {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: larger;
+    text-align: center;
+}
+
+h2 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 36px;
+
+}
+
+p {
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+li {
+    font-size: 24px;
+
 }
